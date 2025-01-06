@@ -1,5 +1,6 @@
 // Logical Operator
-
+// && means AND operator
+// || means OR operator
 public class LogicalOperator {
     public static void main(String[] args) {
         boolean b1 = true;
