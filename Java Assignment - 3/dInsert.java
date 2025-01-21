@@ -2,8 +2,6 @@
  6. Write a Java program to insert an element (specific position) into an array.
  */
 
-import java.util.Scanner;
-
 class dInsert {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5};
@@ -20,6 +18,7 @@ class dInsert {
         }
         for (int i = 0; i < newNumbers.length; i++) {
             System.out.println("Element at index " + i + ": " + newNumbers[i]);
+
         }
     }
 }
