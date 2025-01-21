@@ -1,5 +1,5 @@
 /*
- WAP to compute sum and average of 5 double elements of array.
+ 3. WAP to compute sum and average of 5 double elements of array.
  */
 
 class cAvgArr {

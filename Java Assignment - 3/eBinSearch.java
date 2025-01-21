@@ -1,5 +1,5 @@
 /*
-  WAP to perform binary search in java.
+ 5. WAP to perform binary search in java.
  */
 
 class eBinSearch {

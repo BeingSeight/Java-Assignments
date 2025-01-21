@@ -1,5 +1,5 @@
 /*
- WAP to perform linear search in java.
+4. WAP to perform linear search in java.
 */
 
 class dLinearSearch {

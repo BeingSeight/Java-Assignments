@@ -1,5 +1,5 @@
 /* 
-Explain arrays in Java (1D array: syntax, initialization, example, 2D array:
+2. Explain arrays in Java (1D array: syntax, initialization, example, 2D array:
 syntax, initialization, example, Jagged array: syntax, initialization, example).
 */
 
