@@ -1,5 +1,5 @@
 //28. Write a Java program to count number of Uppercase and Lowercase letters.
-class zaCountCase{
+class zzaCountCase{
     public static void main(String []args){
       String input="Hello World";   
       int upperCount=0;   
