@@ -1,5 +1,5 @@
 //11. Write a Java program to find duplicate values in an array of string values.
-class DuplicateValuesString {
+class jDuplArrStr {
     public static void main(String[] args) {
         String[] arr = {"apple", "banana", "apple"}; 
         

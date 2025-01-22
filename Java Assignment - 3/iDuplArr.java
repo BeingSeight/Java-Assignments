@@ -1,5 +1,5 @@
 //10. Write a Java program to find duplicate values in an array of integer values.
-class DuplicateValuesInt {
+class iDuplArr {
     public static void main(String[] args) {
         int[] arr = {1,2,3,2}; 
         

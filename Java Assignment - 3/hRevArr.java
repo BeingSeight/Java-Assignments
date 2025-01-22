@@ -1,5 +1,5 @@
 //9. Write a Java program to reverse an array of integer values.
-class ReverseArray {
+class hRevArr {
     public static void main(String[] args) {
        int[] arr = {1,2,3}; 
        
