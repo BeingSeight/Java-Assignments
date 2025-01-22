@@ -1,5 +1,5 @@
 //16. Write a program to compare two strings lexicographically ignoring case differences.
-class CompareStringsIgnoreCase {
+class oStrLexi {
     public static void main(String[] args) {
         String str1 = "hello"; 
         String str2 = "HELLO"; 
