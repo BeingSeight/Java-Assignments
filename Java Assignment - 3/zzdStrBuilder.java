@@ -26,7 +26,7 @@ public class zzdStrBuilder {
 
         // v. getChars(int srcBegin, int srcEnd, char[] dst, int dstBegin)
         char[] destArray = new char[5];
-        sb3.getChars(0, 5, destArray, 0); // Copies characters to destArray
+        sb3.getChars(0, sb3.length() < 5 ? sb3.length() : 5, destArray, 0); // Copies characters to destArray
         System.out.println("Copied chars: " + new String(destArray));
 
         // vi. insert(int offset, String str)

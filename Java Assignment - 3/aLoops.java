@@ -1,7 +1,7 @@
 // 1. Explain all the loops in Java (Explaination, syntax, example program).
 
 // Java has three types of loops: for, while, and do-while.
-class LoopExamples {
+class aLoops {
     public static void main(String[] args) {
         // For loop example
         for (int i = 0; i < 5; i++) {
